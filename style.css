@@ -1,0 +1,144 @@
+.body{
+    background-color: darkgreen;
+}
+
+.body{
+   background-color: burlywood;
+}
+
+.menu{
+    display: flex;
+    justify-content:space-between;
+    font-size: 45px;
+    font-family: Castellar;
+    font-weight: 500;
+    color:rgb(255, 0, 0);
+   
+}
+h3{
+    color:darkmagenta
+}
+
+.body{
+    display:flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    color:cadetblue;
+}
+
+.grid{
+    display:flex;
+   justify-content: space-between;
+   
+    border:0px solid black;
+    border-radius: 50px;
+
+}
+
+.origami{
+    
+    background-color:blanchedalmond;
+    border-radius: 20px;
+    color:crimson;
+    width: 310px;
+    font-family: fantasy;
+}
+
+.grid1{
+    display:flex;
+    justify-content: space-evenly;
+   
+    border: 0px solid black;
+    border-radius: 50px;
+}
+
+.grid2{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.text1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color:rgb(255, 251, 0);
+}  
+    
+
+.text2{
+     
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:chocolate;
+}
+
+.text3{
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.text4{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text5{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text6{
+    font-size: 18px;
+    font-family: monospace;
+}
+
+.text7{
+    font-size: 18px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 
+    Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.text8{
+    font-size: 40px;
+    font-family:unset;
+    font-weight: 400;
+    color:aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.head{
+    font-size: 40px;
+    font-family: unset;
+    font-weight: 400;
+    color:aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: whitesmoke;
+    background-image:url("images/bg4.png");
+    background-position: center;
+    background-size: 950px;
+}
+.parts{
+    font-size: 40px;
+    font-family: unset;
+    font-weight: 400;
+    color:aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.part1{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:cyan;
+}
+
+.design{
+    font-size: 40px;
+    font-weight: 400px;
+    color:darkolivegreen;
+}
+
